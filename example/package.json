@@ -1,0 +1,13 @@
+{
+    "name": "application-name"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "2.4.7"
+    , "connect": "latest"
+    , "qs": "latest"
+    , "mime": "latest"
+    , "jade": ">= 0.0.1"        
+    , "pam-auth" : "latest"
+  }
+}
