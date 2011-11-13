@@ -1,11 +1,11 @@
 {
     "name": "pam-auth"
-  , "name": "Chris Constantine"
   , "main": "lib/pam_auth.js"
   , "version": "0.1.0"
   , "private": false
+  , "description" : "A Connect / Express compatible middleware for providing Basic http auth using PAM."
   , "dependencies": {
-    "unixlib"
+    "unixlib" : "=0.1.0"
   }
   , "repository" :
     { "type" : "git"
