@@ -5,7 +5,7 @@
   , "version": "0.1.0"
   , "private": false
   , "dependencies": {
-    , "unixlib" : "=0.1.0"
+    , "pam-auth"
   }
   , "repository" :
     { "type" : "git"
