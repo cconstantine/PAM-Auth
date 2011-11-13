@@ -1,7 +1,7 @@
 {
     "name": "pam-auth"
   , "main": "lib/pam_auth.js"
-  , "version": "0.1.0"
+  , "version": "0.1.1"
   , "private": false
   , "description" : "A Connect / Express compatible middleware for providing Basic http auth using PAM."
   , "dependencies": {
